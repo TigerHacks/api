@@ -1,7 +1,7 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HackIllinois/api?utm_source=badge&utm_medium=badge)
 [![Build Status](https://travis-ci.org/HackIllinois/api.svg?branch=staging)](https://travis-ci.org/HackIllinois/api)
 
-# HackIllinois API
+# TigerHacks API
 
 The back-end services supporting HackIllinois are stored here. Looking to
 contribute? See the [contribution guidelines](/CONTRIBUTING.md) and [setup documentation](/SETUP.md).
